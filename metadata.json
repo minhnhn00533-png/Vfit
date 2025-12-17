@@ -1,0 +1,7 @@
+{
+  "name": "Lumina WebAR Solutions",
+  "description": "Trợ lý ảo B2B chuyên tư vấn giải pháp WebAR (Thực tế ảo tăng cường) giúp doanh nghiệp trang sức tăng tỷ lệ chuyển đổi.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
